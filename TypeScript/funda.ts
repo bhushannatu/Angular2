@@ -14,3 +14,4 @@ function thisisVersion(ver1:number){
 
  whatIsOs();
 thisisVersion(2);
+console.log('watching chages to ts')
