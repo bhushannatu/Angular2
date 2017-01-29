@@ -1,10 +1,10 @@
 {
-    compilerOptions {
-        experimentalDecorators  true,
-        emitDecoratorMetadata true,
-        module commonjs,
-        target ES5,
-        outDir ts-built,
-        rootDir .
+    "compilerOptions": {
+        "experimentalDecorators" : true,
+        "emitDecoratorMetadata": true,
+        "module": "commonjs",
+        "target": "ES5",
+        "outDir": "ts-built",
+        "rootDir": "."
     }
 }
